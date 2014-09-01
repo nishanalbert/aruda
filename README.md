@@ -1,4 +1,4 @@
 aruda
 =====
 
-Our first project
+Our first projec
