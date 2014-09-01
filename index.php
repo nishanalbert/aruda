@@ -21,16 +21,9 @@
 <body>
 <div id='main-content'>
 	<!-- Nav -->
-	<div id='header'>
-		<div id="nav">
-			<ul>
-				<li><a href="#">Home</a></li>
-				<li><a href="#">Services</a></li>
-				<li><a href="#">Gallery</a></li>
-				<li><a href="#">Contact Us</a></li>
-			</ul>
-		</div>
-	</div>
+	<?php
+    	include "header.html";
+	?>
 
 	<div id='content'>
 		<div id="slider">
@@ -49,19 +42,12 @@
 
 			<h1 style='text-align:center'>Welcome to Aruda Glass Solutions</h1>
 
-			<p>Aruda Glass Solutions is a service portal which offeres a wide
+			<p style='text-align:center'>Aruda Glass Solutions is a service portal which offeres a wide
 				array of solutions both to businesses and customers. you have a
 				problem and Aruda Glass Solutions has a solution.</p>
 		</div>
-
 	</div>
-
-
-
-
-	<div id='footer'>
-		<p>Designed & Developed By The Company&reg;</p>
-	</div>
+	<?php include "footer.html"; ?>
 </div>
 </body>
 </html>
