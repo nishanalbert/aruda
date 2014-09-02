@@ -33,8 +33,6 @@
 				<li><img src="images/aruda3.jpg" /></li>
 				<li><img src="images/aruda4.jpg" /></li>
 				<li><img src="images/aruda2.jpg" /></li>
-				<li><img src="images/aruda3.jpg" /></li>
-				<li><img src="images/aruda4.jpg" /></li>
 			</ul>
 
 		</div>
