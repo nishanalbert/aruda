@@ -48,6 +48,30 @@
 				<p><a href="">read more</a></p>
 			</div>
 		</div>
+		
+		<div id="gallery-block">
+			<img alt="ITC Gardenia" src="images/gallery2.jpg" />
+			<div>
+				<h1>Mr. Ravi Shankar's Home, Chennai</h1>
+				<p>We specialise in installation of Glasses.
+				   We have pioneered in this field from 12 years.
+				   What an important client he was
+				   Some Random Text for taking up Project with AGS.</p>
+				<p><a href="">read more</a></p>
+			</div>
+		</div>
+		
+		<div id="gallery-block">
+			<img alt="ITC Gardenia" src="images/gallery2.jpg" />
+			<div>
+				<h1>Mr. Ravi Shankar's Home, Chennai</h1>
+				<p>We specialise in installation of Glasses.
+				   We have pioneered in this field from 12 years.
+				   What an important client he was
+				   Some Random Text for taking up Project with AGS.</p>
+				<p><a href="">read more</a></p>
+			</div>
+		</div>
 	</div>
 	<?php include "footer.html"; ?>
 </div>
