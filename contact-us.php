@@ -48,7 +48,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	<div id='main-content'>
 		<!-- Nav -->
 	<?php
-	include "header.html";
+	include "header.php";
 	?>
 
 		<div id='content'>

@@ -19,7 +19,7 @@
 <div id='main-content'>
 	<!-- Nav -->
 	<?php
-    	include "header.html";
+    	include "header.php";
 	?>
 
 	<div id='content'>
